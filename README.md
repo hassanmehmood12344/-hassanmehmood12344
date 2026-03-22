@@ -1,6 +1,6 @@
 # Hi, I'm Hassan Ali 👋
 
-### Frontend Web Developer | Dubai, UAE 🇦🇪
+### Frontend Web Developer | Dubai, UAE
 
 I build fast, responsive, and visually polished web and mobile apps.
 Currently based in Dubai — **open to work** and available immediately.
