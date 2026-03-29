@@ -46,4 +46,4 @@ and profile management with role-based authentication.
 [LinkedIn](https://linkedin.com/in/hassanali8350) · 
 [hassanaliawan540@gmail.com](mailto:hassanaliawan540@gmail.com)
 
-Open to visa sponsorship · Available immediately in Dubai, UAE
+
